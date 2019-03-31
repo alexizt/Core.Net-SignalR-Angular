@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR", "SignalR\SignalR.csproj", "{166D1490-9396-4D05-9BD9-4B9E124A0AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularSignalRClient", "AngularSignalRClient\AngularSignalRClient.csproj", "{CD386BD0-701F-467A-9E46-78432AC490CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166D1490-9396-4D05-9BD9-4B9E124A0AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166D1490-9396-4D05-9BD9-4B9E124A0AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166D1490-9396-4D05-9BD9-4B9E124A0AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166D1490-9396-4D05-9BD9-4B9E124A0AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD386BD0-701F-467A-9E46-78432AC490CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD386BD0-701F-467A-9E46-78432AC490CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD386BD0-701F-467A-9E46-78432AC490CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD386BD0-701F-467A-9E46-78432AC490CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0C6F3C-8743-45D9-91E6-D2EA4754AB8C}
+	EndGlobalSection
+EndGlobal
